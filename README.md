@@ -1,3 +1,5 @@
+<h1> O Que aprendi neste projeto: </h1>
+
 Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
 
 Recuperar elementos da página com JavaScript, com o uso das funções document.querySelector() e document.getElementById();
